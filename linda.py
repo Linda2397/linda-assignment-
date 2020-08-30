@@ -7,14 +7,14 @@
 #Assignment operators
 #Bitwise Operators
 print("Operators")
-print("Arrithmetic Operators")
+print("Arithmetic Operators")
 
 #the + Operators Addition
 x = input("Enter your first name: ")
 y = input("Enter your last name:")
 
 print("Hello! " + x + y)
-#So this wil sum x and y from the user input
+#So this will sum x and y from the user input
 
 
 
